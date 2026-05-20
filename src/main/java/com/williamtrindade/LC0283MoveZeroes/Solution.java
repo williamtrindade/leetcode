@@ -1,4 +1,4 @@
-package com.williamtrindade.LC0283;
+package com.williamtrindade.LC0283MoveZeroes;
 
 class Solution {
     public void moveZeroes(int[] nums) {
